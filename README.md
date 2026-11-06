@@ -269,9 +269,7 @@ Responsive personal portfolio website created to showcase projects, skills and a
 
 <br/><br/>
 
-<a href="https://github.com/BhargabBanerjee">
-<img width="96%" src="https://raw.githubusercontent.com/BhargabBanerjee/BhargabBanerjee/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</a>
+
 
 <br/><br/>
 
