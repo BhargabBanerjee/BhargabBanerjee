@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e50914"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
-<rect width="1200" height="120" rx="16" fill="#08090d"/>
-<path d="M0 10H1200" stroke="url(#g)" stroke-width="3"/>
-<text x="600" y="68" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="25" font-weight="700">Building intelligent systems, one commit at a time.</text>
-<text x="600" y="94" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">BHARGAB BANERJEE  ·  KOLKATA, INDIA</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#25d9ff"/><stop offset=".52" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+<rect width="1200" height="150" rx="18" fill="#070b18"/>
+<path d="M0 4H1200" stroke="url(#g)" stroke-width="4"/>
+<path d="M0 125 Q300 55 600 125 T1200 125" fill="none" stroke="url(#g)" stroke-opacity=".5" stroke-width="2"/>
+<text x="600" y="69" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="28" font-weight="700">Building intelligent systems, one commit at a time.</text>
+<text x="600" y="99" text-anchor="middle" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">BHARGAB BANERJEE · KOLKATA, INDIA</text>
 </svg>
