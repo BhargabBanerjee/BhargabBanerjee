@@ -257,10 +257,10 @@ Responsive personal portfolio website created to showcase projects, skills and a
 <div align="center">
 
 <a href="https://github.com/BhargabBanerjee">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=BhargabBanerjee&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080D1A&title_color=B794F6&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=BhargabBanerjee&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080D1A&title_color=B794F6&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/BhargabBanerjee">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargabBanerjee&layout=compact&langs_count=8&hide_border=true&bg_color=080D1A&title_color=B794F6&text_color=CBD5E1" alt="Most used languages"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhargabBanerjee&layout=compact&langs_count=8&hide_border=true&bg_color=080D1A&title_color=B794F6&text_color=CBD5E1" alt="Most used languages"/>
 </a>
 
 <br/><br/>
@@ -269,13 +269,25 @@ Responsive personal portfolio website created to showcase projects, skills and a
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhargabBanerjee&bg_color=080D1A&color=CBD5E1&line=A855F7&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<a href="https://github.com/BhargabBanerjee">
+<img width="96%" src="https://raw.githubusercontent.com/BhargabBanerjee/BhargabBanerjee/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</a>
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=BhargabBanerjee&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+<a href="https://github.com/BhargabBanerjee">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBhargabBanerjee&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=8B5CF6&style=for-the-badge&logo=github" alt="Public repositories"/>
+</a>
+<a href="https://github.com/BhargabBanerjee">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBhargabBanerjee&query=%24.followers&label=FOLLOWERS&color=0EA5E9&style=for-the-badge&logo=github" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/BhargabBanerjee">
+<img src="https://img.shields.io/github/stars/BhargabBanerjee?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=REPOSITORY%20STARS&color=EC4899&logo=github" alt="Repository stars"/>
+</a>
 
 </div>
+
+<sub>Stats cards refresh from public GitHub data services. The contribution animation is generated and published by this repository’s GitHub Actions workflow.</sub>
 
 ## `07` &nbsp; RESEARCH & RECOGNITION
 
